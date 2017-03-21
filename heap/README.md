@@ -1,0 +1,1 @@
+Con gcc compilare con il flag -lm altrimenti le funzioni log generano errore di compilazione
